@@ -36,5 +36,19 @@ To do :
 <u>Case 3:</u>
 Scenario with same points, same number of played matches, same number of win, loss, draw and no result matches. Head to head match winner team has priority.
 
+# Usage
 
+git clone https://github.com/BishalRana/CricketWorldCupTable
+
+Add a test cases in TeamsPointsTableTest class.
+
+![Alt text](../CricketWorldCupTable/images/img1.png?raw=true)
+
+![Alt text](../CricketWorldCupTable/images/img2.png?raw=true)
+
+Run the test cases to check. Click on the Test Explorer under Test Menu and run the test cases.
+
+![Alt text](../CricketWorldCupTable/images/img3.png?raw=true)
+
+![Alt text](../CricketWorldCupTable/images/img4.png?raw=true)
 
