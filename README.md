@@ -42,13 +42,13 @@ git clone https://github.com/BishalRana/CricketWorldCupTable
 
 Add a test cases in TeamsPointsTableTest class.
 
-![Alt text](../CricketWorldCupTable/images/img1.png?raw=true)
+![Alt text](images/img1.png?raw=true)
 
-![Alt text](../CricketWorldCupTable/images/img2.png?raw=true)
+![Alt text](images/img2.png?raw=true)
 
 Run the test cases to check. Click on the Test Explorer under Test Menu and run the test cases.
 
-![Alt text](../CricketWorldCupTable/images/img3.png?raw=true)
+![Alt text](images/img3.png?raw=true)
 
-![Alt text](../CricketWorldCupTable/images/img4.png?raw=true)
+![Alt text](images/img4.png?raw=true)
 
